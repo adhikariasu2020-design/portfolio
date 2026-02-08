@@ -1,0 +1,23 @@
+nav {
+    background-color: rgb(235, 231, 0);
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(64, 0, 255);
+    margin-right: 15px;
+    text-decoration:rgb(0, 0, 0);
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: rgb(142, 4, 255);
+    color: blue;
+    border-radius: 59px;
+}
+footer {
+    text-align: center;
+    padding: 2px;
+    margin-top: 6px;
+    background-color: #f2f2f2;
+}
